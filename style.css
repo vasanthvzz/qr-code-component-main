@@ -49,6 +49,12 @@ img{
 
 
 
+@media screen and (max-width : 900px ) {
+    .container{
+        width: 30%;
+    }
+}
+
 @media screen and (max-width : 376px ) {
     .container{
         width: 90%;
